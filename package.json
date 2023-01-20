@@ -1,7 +1,7 @@
 {
-  "name": "create-react-xk-starter",
+  "name": "mhwv2",
   "version": "1.0.0",
-  "description": "Basic react boiler template running on node and react-scripts",
+  "description": "Revamped version of the previous mh front end site, including new features",
   "main": "index.js",
   "bin": "./bin/cli.js",
   "scripts": {
